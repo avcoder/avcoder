@@ -1,7 +1,7 @@
 ### Hello World :v:
 
 - 🔭 I’m currently working at [AgencyAnalytics](https://agencyanalytics.com/) as a Frontend Engineer using React, Typescript, JavaScript and CSS Modules
-- 📝 [blog](https://codevilla.hashnode.dev/) | 💾 [Codepen](https://codepen.io/avcoder) | ⤵️ (npm)[https://www.npmjs.com/package/html5entitieses6]
+- 📝 [Blog](https://codevilla.hashnode.dev/) | 💾 [Codepen](https://codepen.io/avcoder) | ⤵️ [npm](https://www.npmjs.com/package/html5entitieses6)
 - 📫 How to reach me: avcoder at protonmail dot com
 - ⚡ Fun fact: Represented Canada at age 16 for a music competition held in Tokyo
 
