@@ -8,7 +8,7 @@
 ## Portfolio
 | Screenshot    | Title         | Tech  | Desc.   | Demo  | Code |
 | ------------- |:-------------:| -----:| -----:| -----:|-----:|
-|![image](https://user-images.githubusercontent.com/7874705/190830278-f0c8e166-a189-44d0-ab27-e721cb44ac32.png)|Merch Store|PHP mySQL Bootstrap Snipcart|Created an e-commerce page using Snipcart.js on products that are stored in mySQL and retrieved via PHP/JSON|[Demo](https://lamp.computerstudi.es/~Albert2/comp1006/week12/merch.php)|[Created a drop-in schedule to display upcoming student workshops offered by Tutoring, Writing and Math departments](Code)|
+|![image](https://user-images.githubusercontent.com/7874705/190830278-f0c8e166-a189-44d0-ab27-e721cb44ac32.png)|Merch Store|PHP mySQL Bootstrap Snipcart|Created an e-commerce page using Snipcart.js on products that are stored in mySQL and retrieved via PHP/JSON|[Demo](https://lamp.computerstudi.es/~Albert2/comp1006/week12/merch.php)|[Code](https://github.com/avcoder/c1006-gametracker)|
 | ![image](https://user-images.githubusercontent.com/7874705/190829849-ad47bc41-9679-485f-be1a-e6f37e0e1c65.png) | Arcade Listing | PHP mySQL Bootstrap | Built an arcade game tracker using PHP/mySQL that allows records to be created, read, updated, and deleted | [Demo](http://15.222.122.223/~Albert2/comp1006/week12/games.php) | [Code](https://github.com/avcoder/c1006-gametracker/blob/main/games.php)
 
 
