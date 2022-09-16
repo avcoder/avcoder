@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**avcoder/avcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Peace :v:
 
 - 🔭 I’m currently working at [AgencyAnalytics](https://agencyanalytics.com/) as a Frontend Engineer
 - 📫 How to reach me: avcoder at protonmail dot com
