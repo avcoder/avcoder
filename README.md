@@ -1,8 +1,16 @@
 ### Hello World :v:
 
 - 🔭 I’m currently working at [AgencyAnalytics](https://agencyanalytics.com/) as a Frontend Engineer
+- :pencil: [My tech blog](https://codevilla.hashnode.dev/)
 - 📫 How to reach me: avcoder at protonmail dot com
 - ⚡ Fun fact: Represented Canada at age 16 for a music competition held in Tokyo
+
+## Portfolio
+| Screenshot    | Title         | Tech  | Desc.   | Demo  | Code |
+| ------------- |:-------------:| -----:| -----:| -----:|-----:|
+| ![image](https://user-images.githubusercontent.com/7874705/190829849-ad47bc41-9679-485f-be1a-e6f37e0e1c65.png) | Arcade Listing | PHP mySQL Bootstrap | Built an arcade game tracker using PHP/mySQL that allows records to be created, read, updated, and deleted | [Demo](http://15.222.122.223/~Albert2/comp1006/week12/games.php) | [Code](https://github.com/avcoder/c1006-gametracker/blob/main/games.php)
+
+
 
 ## Kudos from co-workers
 > "Thanks for discovering an issue and raising it. We worked together to find the problem and resolved it. Cross team collaboration!"
