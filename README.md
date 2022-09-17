@@ -1,7 +1,7 @@
 ### Hello World :v:
 
 - Frontend Engineer at [AgencyAnalytics](https://agencyanalytics.com/) using React, Typescript, JavaScript and CSS Modules since Nov. 2021
-- Former web developer instructor where I taught [Advanced JS](https://www.youtube.com/playlist?list=PLhbE5nKJVCT_LOrPtasCwXKP0W5TV6qRt), [PHP/mySQL](https://www.youtube.com/playlist?list=PLhbE5nKJVCT--FKzucu-5gvjQparwTna7), [Intro to JS](https://www.youtube.com/playlist?list=PLhbE5nKJVCT_BqI9eELDBd3vHMP5lorLA), [CSS/JS Animation](https://www.youtube.com/playlist?list=PLhbE5nKJVCT9nBoxJEBl8rTxnGRHQTMvO), [MEAN stack](https://www.youtube.com/playlist?list=PLhbE5nKJVCT8Rl3s4G2qID-wNXa3jraZL)
+- Former web developer instructor where I taught [Advanced JS](), [PHP/mySQL](), [Intro to JS](), [CSS/JS Animation](), [MEAN stack]()
 - [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/avcoder) | [npm](https://www.npmjs.com/package/html5entitieses6)
 - ⚡: Represented Canada at age 16 for a music competition held in Tokyo
 - 📬: avcoder at protonmail dot com
