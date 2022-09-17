@@ -1,6 +1,6 @@
 ### Hello World :v:
 
-- Frontend Engineer at [AgencyAnalytics](https://agencyanalytics.com/) using React, Typescript, JavaScript and CSS Modules since Nov. 2021
+- Currently a Frontend Engineer at [AgencyAnalytics](https://agencyanalytics.com/) using React, Typescript, JavaScript and CSS Modules since Nov. 2021
 - Former web developer instructor where I taught [Advanced JS](), [PHP/mySQL](), [Intro to JS](), [CSS/JS Animation](), [MEAN stack]()
 - [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/avcoder) | [npm](https://www.npmjs.com/package/html5entitieses6)
 - ⚡: Represented Canada at age 16 for a music competition held in Tokyo
