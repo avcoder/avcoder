@@ -15,7 +15,7 @@
 |![image](https://user-images.githubusercontent.com/7874705/190831333-210e4abe-865d-40ed-8223-b65015c31f82.png)|Slide Puzzle|GSAP JS animation algorithms|Recreated my favourite college assignment but instead of Visual Basic, I used JS and Greensock's animation library|[Page](https://slide-puzzle-game.netlify.app/)|[Code](https://github.com/avcoder/slide_puzzle)|
 |![image](https://user-images.githubusercontent.com/7874705/190832419-44beb352-82d2-4391-a5e6-867a4f56bb3b.png)|Weather App|Vue JS GraphQL Vuetify|Created a prototype, mobile weather app for 5 different cities using an Open Weather API|[Page](https://weather-pwapp.netlify.app/)|[Code](https://github.com/avcoder/weather-app-pwa)|
 |![image](https://user-images.githubusercontent.com/7874705/190832624-0988aad6-11e7-4a34-a874-101336cb46d7.png)|Poll Anywhere|JS serverless REST API|Created a Poll Everywhere clone using serverless Functions and chart.js to display incoming, real-time votes|[Page](https://poll-anywhere.netlify.app/)|[Code1](https://github.com/avcoder/serverless-vote2/blob/main/functions/hello.js) [Code2](https://github.com/avcoder/serverless-vote2b/blob/main/index.js)|
-
+|![image](https://user-images.githubusercontent.com/7874705/190832750-ae69e929-376c-4d59-a5e2-34b221109cf7.png)|Guess the Flag|JS REST API Leaflet|Created a Guess the Flag game using JS, a countries REST API for JSON data, and leaflet.js for the mapping library|[Page](https://guess-the-flag-game.netlify.app/)|[Code](https://github.com/avcoder/guess-the-flag)|
 
 ## Kudos from co-workers
 > "Thanks for discovering an issue and raising it. We worked together to find the problem and resolved it. Cross team collaboration!"
