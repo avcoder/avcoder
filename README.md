@@ -17,13 +17,3 @@
 |![image](https://user-images.githubusercontent.com/7874705/190832419-44beb352-82d2-4391-a5e6-867a4f56bb3b.png)|Weather App|Vue JS GraphQL Vuetify|Created a prototype, mobile weather app for 5 different cities using an Open Weather API|[Page](https://weather-pwapp.netlify.app/)|[Code](https://github.com/avcoder/weather-app-pwa)|
 |![image](https://user-images.githubusercontent.com/7874705/190832624-0988aad6-11e7-4a34-a874-101336cb46d7.png)|Poll Anywhere|JS serverless REST API|Created a Poll Everywhere clone using serverless Functions and chart.js to display incoming, real-time votes|[Page](https://poll-anywhere.netlify.app/)|[Code1](https://github.com/avcoder/serverless-vote2/blob/main/functions/hello.js) [Code2](https://github.com/avcoder/serverless-vote2b/blob/main/index.js)|
 |![image](https://user-images.githubusercontent.com/7874705/190832750-ae69e929-376c-4d59-a5e2-34b221109cf7.png)|Guess the Flag|JS REST API Leaflet|Created a Guess the Flag game using JS, a countries REST API for JSON data, and leaflet.js for the mapping library|[Page](https://guess-the-flag-game.netlify.app/)|[Code](https://github.com/avcoder/guess-the-flag)|
-
-## Kudos from co-workers
-> "Thanks for discovering an issue and raising it. We worked together to find the problem and resolved it. Cross team collaboration!"
-
-> "I have seen him dig into pages of “code” even when it seemed impossible in order to link up the correct hours to the correct page...I appreciate all of his hard work!”"
-
-## Kudos from students
-> “You are the one of the best instructors I have ever met. Thank you so much for replying in any situation and no matter how complex our error would be, you just helped us everytime. The way you teach is different from the rest and which is much appreciated.”
-
-> "I just emailed you to say thank you very much for the motivational comments you give me. Working with you is a great experience, and your knowledge and skills are phenomenal. It is greatly helping me finish my tasks. I am indebted for your help and support. Thanks for making me brave."
