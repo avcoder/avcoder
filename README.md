@@ -7,7 +7,7 @@
 - avcoder at protonmail dot com
 
 
-## Teaching Portfolio
+## Portfolio Projects when Teaching
 | Screenshot    | Title         | Tech  | Desc.   | Demo  | Code |
 | ------------- |:-------------:| -----:| -----:| -----:|-----:|
 |![image](https://user-images.githubusercontent.com/7874705/190832874-c000deef-5c52-48cf-9941-e08bd63229ea.png)|Twitter Clone|JS Bootstrap REST API|Created a twitter clone using ES6+ complete with the ability to tweet text, gifs, emojis, polls and images|[Page](https://twitter-es6.netlify.app/)|[Code](https://github.com/avcoder/twitter2020)|
