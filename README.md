@@ -2,7 +2,7 @@
 
 - Currently a Frontend Engineer at [AgencyAnalytics](https://agencyanalytics.com/) using React, Typescript, JavaScript and CSS Modules since Nov. 2021
 - Former web developer instructor where I taught [Advanced JS](https://www.youtube.com/watch?v=Z62GZzVFTJY#t=9m00s), [PHP/mySQL](https://www.loom.com/share/83a7556480974a2fa66420f4f750fa60), [Intro JS](https://www.youtube.com/watch?v=JysxaivtjaY#t=3m28s), [CSS/JS Animation](https://www.youtube.com/watch?v=Je9lpYntJk8#t=1h33m30s), [MEAN](https://www.youtube.com/watch?v=QyXI09eP7uc#t=4m08s)
-- [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/avcoder) | [npm](https://www.npmjs.com/package/html5entitieses6)
+- [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/codevilla) | [npm](https://www.npmjs.com/package/html5entitieses6)
 - Represented Canada at age 16 for a music competition held in Tokyo
 - avcoder at protonmail dot com
 
