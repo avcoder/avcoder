@@ -1,6 +1,6 @@
 ### Hello World :v:
 
-- Currently a [Front-end Developer](https://github.com/avcoder/view-contributions-green-squares-2023) at [AgencyAnalytics](https://agencyanalytics.com/) using React, Typescript, JavaScript, CSS Modules, Docker since Nov. 2021
+- Currently a [Front-end Developer](https://github.com/avcoder/view-contributions-green-squares-2023) at [AgencyAnalytics](https://agencyanalytics.com/company/about) using React, Typescript, JavaScript, CSS Modules, Docker since Nov. 2021
 - Former web developer instructor where I taught ▶️ [Advanced JS](https://www.youtube.com/watch?v=ami_t8VVjPw&list=PLhbE5nKJVCT_LOrPtasCwXKP0W5TV6qRt&index=58), ▶️ [PHP/mySQL](https://www.loom.com/share/83a7556480974a2fa66420f4f750fa60), ▶️ [Intro JS](https://www.youtube.com/watch?v=JysxaivtjaY#t=3m28s), ▶️ [CSS/JS Animation](https://www.youtube.com/watch?v=Je9lpYntJk8#t=1h33m30s), ▶️ [MEAN](https://www.youtube.com/watch?v=QyXI09eP7uc#t=4m08s)
 - [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/codevilla) | [npm](https://www.npmjs.com/package/html5entitieses6)
 - Represented Canada at age 16 for a music competition held in Tokyo
