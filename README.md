@@ -7,8 +7,8 @@
 - avcoder at protonmail dot com
 
 ### Sample Work Videos
-- treadmill review [video](https://www.youtube.com/watch?v=fyQET3JwFQg)
-- hackathon promo [video](https://www.youtube.com/watch?v=2b8xWbMUpn8)
+- Christmas treadmill review [video](https://www.youtube.com/watch?v=fyQET3JwFQg)
+- hackathon project promo [video](https://www.youtube.com/watch?v=2b8xWbMUpn8)
 
 ## Teaching Portfolio
 | Screenshot    | Title         | Tech  | Desc.   | Demo  | Code |
