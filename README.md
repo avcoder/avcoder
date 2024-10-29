@@ -7,6 +7,14 @@
 - avcoder at protonmail dot com
 
 ### Sample Work Videos
+- Metric Alerts Update Demo [video](https://www.loom.com/share/d4814f96c9074db1bf513b9118670ac2?sid=b1ac0bb5-1c62-4986-bdd1-e9091e49a9dd)
+- Feature Flags in staging [video](https://www.loom.com/share/d6b872566a9448d290443925bb997cc8?sid=95bb39cb-705f-46e2-b540-ddd5f4a34f4b)
+- Disconnected auth on staging [video](https://www.loom.com/share/ea17a0f8d3324cecb7c32610c6ca1990?sid=628f2b13-e135-44f0-b726-269ca1273c42)
+- Disconnected auth integration [video](https://www.loom.com/share/28f8719138b044ea84a3496aa5472d94?sid=76db0d4a-53d5-409d-bb35-c6dcf944d359)
+- Disconnected permissions integration [video](https://www.loom.com/share/2fcf4a72c5674ef2accd73a614a20b26?sid=305789ad-ce57-4bb8-8c48-b941c5b8cc84)
+- Quick Reconnect on staging [video](https://www.loom.com/share/d3b4d1c3c7f64ffebeee0a6a9dfc5cc7?sid=2329b9da-90bb-4901-a41d-4d348179e26f)
+- Read Notifications on hover [video](https://www.loom.com/share/9f08357b16964dbabfd624f66b05e90b?sid=10fe98b9-31c0-4561-8cda-c6d32d13bae5)
+- Search and Select component [video](https://www.loom.com/share/c0571f737f8841388124be71266690c9?sid=602f827d-6dfa-4771-a3a9-8b426253a2ec)
 - Christmas treadmill review [video](https://www.youtube.com/watch?v=fyQET3JwFQg)
 - hackathon project promo [video](https://www.youtube.com/watch?v=2b8xWbMUpn8)
 
