@@ -6,7 +6,7 @@
 - Represented Canada at age 16 for a music competition held in Tokyo
 - avcoder at protonmail dot com
 
-### Sample Work Videos
+### How I Communicate at Work
 - Metric Alerts Update Demo [video](https://www.loom.com/share/d4814f96c9074db1bf513b9118670ac2?sid=b1ac0bb5-1c62-4986-bdd1-e9091e49a9dd)
 - Feature Flags in staging [video](https://www.loom.com/share/d6b872566a9448d290443925bb997cc8?sid=95bb39cb-705f-46e2-b540-ddd5f4a34f4b)
 - Disconnected auth on staging [video](https://www.loom.com/share/ea17a0f8d3324cecb7c32610c6ca1990?sid=628f2b13-e135-44f0-b726-269ca1273c42)
