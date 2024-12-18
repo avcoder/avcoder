@@ -1,6 +1,8 @@
 ### Hello World :v:
 
 - Currently a [Front-end Developer](https://github.com/aa-albertvillaruz) at [AgencyAnalytics](https://agencyanalytics.com/company/about) using React, Typescript, JavaScript, RTK Query, Redux, CSS Modules, Docker since Nov. 2021
+- [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/codevilla) | [npm](https://www.npmjs.com/package/html5entitieses6)
+- Represented Canada at age 16 for a music competition held in Tokyo
 
 ### Examples of Me Teaching
 - Former web developer instructor where I taught
@@ -9,9 +11,7 @@
    -  ▶️ [Intro JS](https://www.youtube.com/watch?v=bi8kGU5ilYc#t=17m02s)
    -  ▶️ [CSS/JS Animation](https://www.youtube.com/watch?v=Je9lpYntJk8#t=1h33m30s)
    -  ▶️ [MEAN](https://www.youtube.com/watch?v=HZxLRyCi5FU#t=4m07s)
-- [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/codevilla) | [npm](https://www.npmjs.com/package/html5entitieses6)
-- Represented Canada at age 16 for a music competition held in Tokyo
-- avcoder at protonmail dot com
+
 
 ### How I Communicate at Work
 - Metric Alerts Update Demo [video](https://www.loom.com/share/d4814f96c9074db1bf513b9118670ac2?sid=b1ac0bb5-1c62-4986-bdd1-e9091e49a9dd)
