@@ -23,8 +23,6 @@
 - Quick Reconnect on staging [video](https://www.loom.com/share/d3b4d1c3c7f64ffebeee0a6a9dfc5cc7?sid=2329b9da-90bb-4901-a41d-4d348179e26f)
 - Read Notifications on hover [video](https://www.loom.com/share/9f08357b16964dbabfd624f66b05e90b?sid=10fe98b9-31c0-4561-8cda-c6d32d13bae5)
 - Search and Select component [video](https://www.loom.com/share/c0571f737f8841388124be71266690c9?sid=602f827d-6dfa-4771-a3a9-8b426253a2ec)
-- Christmas treadmill review [video](https://www.youtube.com/watch?v=fyQET3JwFQg)
-- hackathon project promo [video](https://www.youtube.com/watch?v=2b8xWbMUpn8)
 
 ## Projects I Use to Teach With 
 | Screenshot    | Title         | Tech  | Desc.   | Demo  | Code |
