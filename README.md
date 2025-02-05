@@ -1,6 +1,7 @@
 ### Hello World :v:
 
-- Previously was a [Front-end Developer](https://github.com/aa-albertvillaruz) at [AgencyAnalytics](https://agencyanalytics.com/company/about) using React, Typescript, JavaScript, RTK Query, Redux, CSS Modules, Docker Nov. 2021 to Jan. 2025
+- Currently a Software Developer Bootcamp Instructor
+- Previously a [Front-end Developer](https://github.com/aa-albertvillaruz) at [AgencyAnalytics](https://agencyanalytics.com/company/about) using React, Typescript, JavaScript, RTK Query, Redux, CSS Modules, Docker Nov. 2021 to Jan. 2025
 - [My LinkedIn](https://www.linkedin.com/in/avpeace/) 
 - [Blog](https://codevilla.hashnode.dev/) | [Codepen](https://codepen.io/codevilla) | [npm](https://www.npmjs.com/package/html5entitieses6)
 - Represented Canada at age 16 for a music competition held in Tokyo
